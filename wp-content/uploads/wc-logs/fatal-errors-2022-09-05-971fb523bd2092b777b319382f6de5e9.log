@@ -1,0 +1,6 @@
+2022-09-05T12:43:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/mycara/wp-includes/class-wp-image-editor.php on line 565
+
+2022-09-05T12:48:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/mycara/wp-includes/class-wp-image-editor.php on line 565
+
+2022-09-05T13:25:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/mycara/wp-includes/class-wp-image-editor.php on line 565
+
